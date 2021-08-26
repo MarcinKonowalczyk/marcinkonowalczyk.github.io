@@ -18,4 +18,5 @@ bundle exec jekyll serve
   - [ ] posts
 - [ ] add portfolio
 - [ ] add blog
+  - [ ] write a blogpost about `run.sh` ?
 - [ ] toc in `/terms` is broken
