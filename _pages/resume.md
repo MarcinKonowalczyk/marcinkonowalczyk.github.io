@@ -74,3 +74,10 @@ redirect_from:
 - **Graphic design**. Designed logos, game assets, business cards and publication figures. Experience with rendering pipelines, 2D visualisation and programmatic art. Document typesetting in LaTeX.
 - **Electronics**. Experience with [microcontroller programming](https://github.com/MarcinKonowalczyk/pixel-perfect-lcd-display) (Arduino, Teensy) for real-time applications, serial interfaces, analogue and digital signal processing. Basic circuit design and manufacture.
 - **Hands-on manufacture**. Self-assembled and maintained 3D printing service for the Timmel research group. Basic machine workshop skills (Lathe, Mill). Experience in CAD (computer assisted design).
+
+## Languages
+
+- **Polish** (native)
+- **English** (fluent)
+- **Japanese** (very basic)
+- **Spanish** (very basic)
