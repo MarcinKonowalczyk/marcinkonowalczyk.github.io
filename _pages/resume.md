@@ -22,6 +22,9 @@ redirect_from:
 
 ## Work experience
 
+- 2021 - 2024\
+    **Systems engineer** at BlueCopal, London. Developed and deployed machine learning models for financial time series analysis and forecasting. Developed/maintained the internal package registry and was responsible for good code practises, continuous integration and internal standards, as well as testing and reliability in multitude of platforms and environments. Successfully deployed to production, and thereafter maintained 3 data engineering services responsible for ingestion, processing, storage and display of data.
+
 - 2021 (January - September)\
     **Postdoctoral research assistant** at the University of Oxford, Bayley Group. Worked on control software and implementation of a neural tissue bioprinter.
 
@@ -60,11 +63,13 @@ redirect_from:
 ## Skills
 
 - **Programming**
-  - Excellent knowledge of Python, MATLAB and LabVIEW (8 years of experience).
-  - Good knowledge of C and C++ (1 year).
-  - Some programming experience in Mathematica, Julia, C# and Java (Processing).
-  - Extensive experience in data analysis, modelling, statistics and visualisation as well as image processing.
-  - Some experience in [programming compilers](https://github.com/MarcinKonowalczyk/psll-lang), machine learning and [graphic card programming](https://github.com/MarcinKonowalczyk/pixel-goo) (GLSL).
+  - Deep knowledge of Python -- packaging, ecosystem and C extensions
+  - Keen interest and some experiance in golang (hobbyst projects, advent of code)
+  - Good knowledge of C and C++ (1 year, hobby projects on embedded systems, graphics programming and game design, as well as python extensions)
+  - MATLAB and LabVIEW (8 years, academic and professional experience. data analysis and control systems)
+  - Some programming experience in Mathematica, Julia, C# and Java (Processing)
+  - Extensive experience in data analysis, modelling, statistics and visualisation as well as image processing
+  - Some experience in [programming compilers](https://github.com/MarcinKonowalczyk/psll-lang), machine learning and [graphic card programming](https://github.com/MarcinKonowalczyk/pixel-goo) (GLSL)
 - **Continuous integration**. Experience with git / subversion, as well as setting up corresponding continuous integration and testing pipelines.
 - **Graphic design**. Designed logos, game assets, business cards and publication figures. Experience with rendering pipelines, 2D visualisation and programmatic art. Document typesetting in LaTeX.
 - **Electronics**. Experience with [microcontroller programming](https://github.com/MarcinKonowalczyk/pixel-perfect-lcd-display) (Arduino, Teensy) for real-time applications, serial interfaces, analogue and digital signal processing. Basic circuit design and manufacture.
