@@ -23,7 +23,7 @@ redirect_from:
 ## Work experience
 
 - 2021 - 2024\
-    **Systems engineer** at BlueCopal, London. Developed and deployed machine learning models for financial time series analysis and forecasting. Developed/maintained the internal package registry and was responsible for good code practises, continuous integration and internal standards, as well as testing and reliability in multitude of platforms and environments. Successfully deployed to production, and thereafter maintained 3 data engineering services responsible for ingestion, processing, storage and display of data.
+    **Systems engineer** at BlueCopal, London. Developed and deployed machine learning models for financial time series analysis and forecasting. Developed/maintained the internal package registry and was responsible for good code practises, continuous integration and internal standards, as well as testing and reliability in multitude of platforms and environments. Successfully deployed to production, and thereafter maintained 3 data engineering services responsible for ingestion, processing, storage and display of data. Extensively used Python, Redis, Grafana and Prometheus, as well as Kubernetes, Postgres and InfluxDB. Lots of exposure and experience in Azure cloud ecosystem.
 
 - 2021 (January - September)\
     **Postdoctoral research assistant** at the University of Oxford, Bayley Group. Worked on control software and implementation of a neural tissue bioprinter.
